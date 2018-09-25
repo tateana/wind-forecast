@@ -2,6 +2,7 @@
 
 # libs
 https://flow.org/en/docs/getting-started/
+https://redux-observable.js.org/docs/basics/Epics.html
 
 # React
 ## interview questions
